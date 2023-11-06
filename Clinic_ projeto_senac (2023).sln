@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clinic_ projeto_senac (2023)", "Clinic_ projeto_senac (2023).csproj", "{CCAE5BD3-542F-4ACB-9C8E-EC1A1980B085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCAE5BD3-542F-4ACB-9C8E-EC1A1980B085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCAE5BD3-542F-4ACB-9C8E-EC1A1980B085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCAE5BD3-542F-4ACB-9C8E-EC1A1980B085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCAE5BD3-542F-4ACB-9C8E-EC1A1980B085}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6682F562-C71F-4358-852C-54B7624D59DA}
+	EndGlobalSection
+EndGlobal
